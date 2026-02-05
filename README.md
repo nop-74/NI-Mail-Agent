@@ -7,3 +7,8 @@ NI Mail Agent  Программа для проведения легальных
 
 ##  [Скачать "NI Mail Agent" ver. 4.8.39.111 (2,89 МБ](https://kivlab.ru/download/ni-mail-agent/?tmstv=1770279376&version=4-8-39-111)
  
+##  [Купить версию PRO ](https://t.me/fradyrad)
+
+##  [Видеоуроки по настройке и использованию NI Mail Agent](https://dzen.ru/suite/aac60550-ee8a-44f5-b366-249507b78a25)
+
+ 
