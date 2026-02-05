@@ -11,4 +11,8 @@ NI Mail Agent  Программа для проведения легальных
 
 ##  [Видеоуроки по настройке и использованию NI Mail Agent](https://dzen.ru/suite/aac60550-ee8a-44f5-b366-249507b78a25)
 
+## ОПЛАТА PRO ВЕРСИИ
+
+![Alt text](https://github.com/nop-74/NI-Mail-Agent/blob/main/PRO_1.png)
+
  
