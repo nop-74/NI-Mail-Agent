@@ -15,4 +15,6 @@ NI Mail Agent  Программа для проведения легальных
 
 ![Alt text](https://github.com/nop-74/NI-Mail-Agent/blob/main/PRO_1.png)
 
- 
+ ## После оплаты написать мне в Telegram
+
+![Alt text](https://t.me/fradyrad)
