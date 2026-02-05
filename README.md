@@ -17,4 +17,4 @@ NI Mail Agent  Программа для проведения легальных
 
  ## После оплаты написать мне в Telegram
 
-![Alt text](https://t.me/fradyrad)
+![Alt text] (https://t.me/fradyrad)
